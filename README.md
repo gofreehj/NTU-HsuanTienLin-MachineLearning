@@ -12,9 +12,9 @@
 
 课程视频在B站上可以直接观看哦～这里附上传送门：
 
-[机器学习基石（林轩田）](https://www.bilibili.com/video/av12463015/)
+[机器学习基石（林轩田）](https://www.bilibili.com/video/av36731342)
 
-[机器学习技法（林轩田）](https://www.bilibili.com/video/av12469267/)
+[机器学习技法（林轩田）](https://www.bilibili.com/video/av36760800)
 
 ## 课程内容
 
@@ -34,43 +34,43 @@
 
 - **When Can Machine Learn?**
 	
-	- The Learning Problem
+	- [The Learning Problem](https://redstonewill.com/65/)
 
-	- Learning to Answer Yes/No
+	- [Learning to Answer Yes/No](https://redstonewill.com/70/)
 
-	- Types of Learning
+	- [Types of Learning](https://redstonewill.com/73/)
 
-	- Feasibility of Learning
+	- [Feasibility of Learning](https://redstonewill.com/77/)
 
 - **Why Can Machine Learn?**
 
-	- Training versus Testing
+	- [Training versus Testing](https://redstonewill.com/80/)
 
-	- Theory of Generalization
+	- [Theory of Generalization](https://redstonewill.com/217/)
 
-	- The VC Dimension
+	- [The VC Dimension](https://redstonewill.com/222/)
 
-	- Noise and Error
+	- [Noise and Error](https://redstonewill.com/227/)
 
 - **How Can Machine Learn?**
 
-	- Linear Regression
+	- [Linear Regression](https://redstonewill.com/232/)
 
-	- Logistic Regression
+	- [Logistic Regression](https://redstonewill.com/236/)
 
-	- Logistic Regression
+	- [Linear Models for Classification](https://redstonewill.com/243/)
 
-	- Nonlinear Transformation
+	- [Nonlinear Transformation](https://redstonewill.com/246/)
 
 - **How Can Machine Learn Better?**
 
-	- Hazard of Overfitting
+	- [Hazard of Overfitting](https://redstonewill.com/249/)
 
-	- Regularization
+	- [Regularization](https://redstonewill.com/252/)
 
-	- Validation
+	- [Validation](https://redstonewill.com/255/)
 
-	- Three Learning Principles
+	- [Three Learning Principles](https://redstonewill.com/311/)
 	
 ### 《机器学习技法》
 
@@ -86,41 +86,41 @@
 
 - **Embedding Numerous Features: Kernel Models**
 	
-	- Linear Support Vector Machine
+	- [Linear Support Vector Machine](https://redstonewill.com/345/)
 
-	- Dual Support Vector Machine
+	- [Dual Support Vector Machine](https://redstonewill.com/369/)
 
-	- Kernel Support Vector Machine
+	- [Kernel Support Vector Machine](https://redstonewill.com/393/)
 
-	- Soft-Margin Support Vector Machine
+	- [Soft-Margin Support Vector Machine](https://redstonewill.com/417/)
 	
-	- Kernel Logistic Regression
+	- [Kernel Logistic Regression](https://redstonewill.com/456/)
 	
-	- Support Vector Regression
+	- [Support Vector Regression](https://redstonewill.com/477/)
 
 - **Combining Predictive Features: Aggregation Models**
 
-	- Blending and Bagging
+	- [Blending and Bagging](https://redstonewill.com/509/)
 
-	- Adaptive Boosting
+	- [Adaptive Boosting](https://redstonewill.com/535/)
 
-	- Decision Tree
+	- [Decision Tree](https://redstonewill.com/569/)
 
-	- Random Forest
+	- [Random Forest](https://redstonewill.com/601/)
 	
-	- Gradient Boosted Decision Tree
+	- [Gradient Boosted Decision Tree](https://redstonewill.com/644/)
 
 - **Distilling Implicit Features: Extraction Models**
 
-	- Neural Network
+	- [Neural Network](https://redstonewill.com/682/)
 
-	- Deep Learning
+	- [Deep Learning](https://redstonewill.com/710/)
 
-	- Radial Basis Function Network
+	- [Radial Basis Function Network](https://redstonewill.com/739/)
 
-	- Matrix Factorization
+	- [Matrix Factorization](https://redstonewill.com/783/)
 	
-	- Finale
+	- [Finale](https://redstonewill.com/810/)
 
 ## 资源汇总
 
@@ -131,10 +131,12 @@
 两门课所有的教学视频都存放在百度云盘上，方便转存、下载。包括视频对应的教学ppt（pdf形式）。
 
 **机器学习基石：**
-链接：https://pan.baidu.com/s/13GjUE9b9TMT0UfMINncRoA 密码：30p0
+
+链接：https://pan.baidu.com/s/1mKTjYgPhTDDq5Ajl-nYA0A 提取码：3l47 
 
 **机器学习技法：**
-链接：https://pan.baidu.com/s/1mGJJGF3Fq3B41mlenzOzCQ 密码：2xf2
+
+链接：https://pan.baidu.com/s/1qmZ8s7wSwHM0UkkPuNFJRw 提取码：vjuf 
 
 ### 课程笔记
 
@@ -166,13 +168,11 @@
 
 **个人主页：**
 
->我的网站：[红色石头的机器学习之路](https://redstonewill.github.io/)
+>我的网站：[http://redstonewill.com/](http://redstonewill.com/)
 
->我的CSDN：[红色石头的专栏](http://blog.csdn.net/red_stone1)
+>我的CSDN：[http://blog.csdn.net/red_stone1](http://blog.csdn.net/red_stone1)
 
->我的知乎：[红色石头](https://www.zhihu.com/people/red_stone_wl)
-
->我的微博：[RedstoneWill的微博](http://weibo.com/redstonewill)
+>我的知乎：[https://www.zhihu.com/people/red_stone_wl](https://www.zhihu.com/people/red_stone_wl)
 
 >我的微信公众号：AI有道（ID：redstonewill）
 
